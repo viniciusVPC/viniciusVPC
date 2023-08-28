@@ -56,8 +56,7 @@ Em breve...
 
 ### Redes e Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vini_vpc)
-<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuspereira2206@gmail.com?Subject=Contato Github)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuspereira2206@gmail.com?Subject=contato%20Github)
 
 <!--
 **viniciusVPC/viniciusVPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
