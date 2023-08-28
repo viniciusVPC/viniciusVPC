@@ -6,11 +6,6 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusVPC&layout=compact&theme=darcula">
 </div>
 
-<!--
-## <!-- divisão -->
-### Disponível para Projetos! 🙃
--->
-
 ## <!-- divisão -->
 ### Experiência:
 #### -> Linguagens de Programação:
