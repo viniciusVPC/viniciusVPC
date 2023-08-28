@@ -26,10 +26,10 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 ## <!-- divisão -->
 
 ### Aprendendo:
-#### Banco de Dados:
+#### -> Banco de Dados:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web (Linguagens de marcação e estilização):
+#### -> Web (Linguagens de marcação e estilização):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -37,6 +37,7 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 
 ### Trabalhando atualmente em:
 
+Em breve...
 
 ## <!-- divisão -->
 
@@ -50,9 +51,15 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 
 #### -> Gestão de Serviços Cloud:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## <!-- divisão -->
+
+### Redes e Contato:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vini_vpc)
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
+
 <!--
 **viniciusVPC/viniciusVPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
