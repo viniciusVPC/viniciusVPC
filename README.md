@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Vinícius! 🐨
-#### Programador com experiência em Programação Orientada ao Objeto aplicado em Desenvolvimento de Software e GameDev.
+Programador com experiência em Programação Orientada ao Objeto aplicado em Desenvolvimento de Software e GameDev.
 
 <div align="center">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=viniciusVPC&theme=darcula">
