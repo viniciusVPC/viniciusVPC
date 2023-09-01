@@ -47,6 +47,7 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 ### Trabalhando atualmente em:
 
 Um sistema CRUD direcionado para Confeitarias. Desenvolvido em Java e conexão via MySQL com um banco de dados.
+<br />
 [Clique aqui](https://github.com/viniciusVPC/Sistema-Confeitaria)
 
 ## <!-- divisão -->
