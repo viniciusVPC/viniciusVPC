@@ -46,9 +46,8 @@ Programador com experiência em Programação Orientada ao Objeto aplicado em De
 
 ### Trabalhando atualmente em:
 
-Um sistema CRUD direcionado para Confeitarias. Desenvolvido em Java e conexão via MySQL com um banco de dados.
-<br />
-[![](Imagens/Logo.png)](https://github.com/viniciusVPC/Sistema-Confeitaria)
+Backend de uma REST API controlando o sistema CRUD de uma Clínica Veterinária fictícia chamada "PetMania". Codando em Java usando SpringBoot, JPA Hibernate e MySQL.
+Em breve será implementado um Frontend usando HTML, CSS e JavaScript para enviar as requisições Json.
 
 ## <!-- divisão -->
 
